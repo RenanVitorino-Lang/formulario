@@ -1,0 +1,20 @@
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+ body{
+    font-family: 'Karla',sans-serif;
+    background-color: rgb(172, 192, 204);
+ }
+ .formulario{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ form{
+    background-color: rgb(207, 207, 207);
+    width: 30vw;
+    height: 30vh;
+    border-radius: 1em;
+ }
